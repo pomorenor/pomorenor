@@ -2,9 +2,10 @@
 ## My name is Pohl Moreno, I'm a physicist from Bogotá, Colombia 🇨🇴 
 ### Here you can look up my research and the things I work on! 🐶 
 - I'm currently working on simulations on molecular physics, particularly endohedral fullerenes and positronic molecules.
+- I have also worked in Message Passing Neural Networks for research in Chemistry
 - Appart from doing research  I like to play the bass, the piano and I'm learning to paint using watercolour!
 
-# Languagues: ::
+# Languagues: 
 You can talk to me in any of these languages:
 - Spanish (Native speaker) 🇪🇸
 - English (Fluent, C2) 🇬🇧
