@@ -3,6 +3,7 @@
 ### Here you can look up my research and the things I work on! 🐶 
 - I'm currently working on simulations on molecular physics, particularly endohedral fullerenes and positronic molecules.
 - I have also worked in Message Passing Neural Networks for Chemistry.
+- For my research I have abbilities in HPC, for example I run simulations in Nibi, the newest supercomputer of the Alliance de recherche númerique du Canada.
 - Appart from doing research  I like to play the bass, the piano and I'm learning to paint using watercolour!
 
 # Languages: 
