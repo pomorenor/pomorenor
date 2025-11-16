@@ -5,7 +5,7 @@
 - I have also worked in Message Passing Neural Networks for research in Chemistry
 - Appart from doing research  I like to play the bass, the piano and I'm learning to paint using watercolour!
 
-# Languagues: 
+# Languages: 
 You can talk to me in any of these languages:
 - Spanish (Native speaker) 🇪🇸
 - English (Fluent, C2) 🇬🇧
