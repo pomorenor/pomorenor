@@ -1,7 +1,8 @@
 # 🐳🦫 Bonjour, Hi, Hola, Hallo! 🫎🐻
 ## My name is Pohl Moreno, I'm a physicist from Bogotá, Colombia 🇨🇴
 ### Here you can look up my research and the things I work on! 🐶 
-I'm currently working on simulations on molecular physics, particularly endohedral fullerenes and positronic molecules
+- I'm currently working on simulations on molecular physics, particularly endohedral fullerenes and positronic molecules.
+- Appart from doing research  I like to play the bass, the piano and I'm learning to paint using watercolour!
 
 
 # 💻 Tech Stack:
