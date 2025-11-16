@@ -1,5 +1,5 @@
 ## Hi, Bonjour, Hallo, Hola!  
-## My name is Pohl Moreno, I'm a physicist from Bogotá, Colombia. Here you can see my work! 👋
+## My name is Pohl Moreno, I'm a physicist from Bogotá, Colombia. Here you can look up the code associated to my research and perhaps morek! 👋
 
 <!--
 **pomorenor/pomorenor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
